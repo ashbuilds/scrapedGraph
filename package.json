@@ -1,0 +1,12 @@
+{
+  "name": "scrapedGraph",
+  "main": "server.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "4.1.9",
+    "phantomjs": "2.1.7",
+    "scraperjs": "1.2.0"
+  }
+}

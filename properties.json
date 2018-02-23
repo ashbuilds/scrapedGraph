@@ -1,0 +1,44 @@
+
+{
+  "pet":[
+  {
+    "id":"12312321",
+    "value":"cat"
+  },
+  {
+    "id":"900913",
+    "value":"dog"
+  },
+  {
+    "id":"912n3201029",
+    "value":"chicken"
+  },
+  {
+    "id":"19021ikasel",
+    "value":"lion"
+  },
+  {
+    "id":"912n3koj",
+    "value":"eagle"
+  },
+  {
+    "id":"09123j-4j",
+    "value":"cow"
+  }
+],
+"gender":[
+  {
+    "id":"190kas-4j",
+    "value":"male"
+  },
+  {
+    "id":"92i32okp-4j",
+    "value":"female"
+  },
+  {
+    "id":"-0-0oi1-4j",
+    "value":"LGBT"
+  }
+]
+
+}
