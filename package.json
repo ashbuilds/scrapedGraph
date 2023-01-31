@@ -5,7 +5,7 @@
   "dependencies": {
     "body-parser": "~1.0.1",
     "express": "~4.0.0",
-    "mongoose": "4.1.9",
+    "mongoose": "5.13.15",
     "phantomjs": "2.1.7",
     "scraperjs": "1.2.0"
   }
